@@ -44,3 +44,6 @@ function alternateOrder(arr, n) {
 let arr = [2, 4, 6, 8, 10];
 arr = alternateOrder(arr, arr.length);
 console.log(arr);
+
+// Time Complexity O(n)
+// Space Complexity O(n)
